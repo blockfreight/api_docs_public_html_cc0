@@ -1,6 +1,6 @@
 baseurl                 = "blockfreight.io/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
-title                   = "Blockfreight™ API Docs"
+title                   = "Blockfreight™ API Docs + Open Source = ❤️ "
 publishDir              = "docs"
 
 # googleAnalytics       = "UA-126123494-1"             # Tracking code, eg. "UA-111111111-1"
@@ -12,7 +12,7 @@ publishDir              = "docs"
     homepage            = "main"                        # What to call
 
 # Metadata
-    description         = "Blockfreight, Inc. [BFT:XCPC] " # Max 160 characters show in search results
+    description         = "Blockfreight™ the blockchain of global freight.[BFT:XCPC] " # Max 160 characters show in search results
     twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
     primaryImage        = "images/twitter/blockfreight.png"       # Image that shows on Twitter cards and OpenGraph links
 
