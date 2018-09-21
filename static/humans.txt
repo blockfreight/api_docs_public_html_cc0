@@ -26,7 +26,7 @@ Project Sponsor(s):
 /* SITE */
                    
 First published: 2018/SEP/20
-Last update: {{.Site.LastChange}}
+Last update: {{ partial "date.html" . }}
 Standards: HTML5, CSS3      
 Components: Bootstrap 4
                  
